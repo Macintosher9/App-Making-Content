@@ -4,7 +4,17 @@ body {
 h1 {
     color: black;
     font-family: Arial;
+    text-align: center;
+    font-size: 64px;
+    border: 2px solid black;
 }
 p {
     color: rgb(0,0,0);
+    font-family: Arial;
+    margin-left: 20px;
+}
+a {
+    color: black;
+    font-family: Arial;
+    margin-left: 20px;
 }
