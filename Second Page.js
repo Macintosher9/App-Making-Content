@@ -1,4 +1,4 @@
 
-function backButton1() {
+function backButton() {
     window.location.href = "First Page.html";
 }
