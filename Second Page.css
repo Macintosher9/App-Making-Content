@@ -4,9 +4,24 @@ body {
 h2 {
     text-align: center;
     font-size: 64px;
+    font-family: Arial;
+}
+h3 {
+    text-align: center;
+    font-family: Arial;
+    font-size: 32px;
+}
+a {
+    color: black;
 }
 table, th, td {
     font-size: 32px;
-    border: 1px solid black;
-    
+    border: 2px Solid black;
+    border-collapse: collapse;
+    font-family: Arial;
+    text-align: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
 }
